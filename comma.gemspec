@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Marcus Crafter", "Tom Meier"]
   s.email       = ["crafterm@redartisan.com", "tom@venombytes.com"]
   s.homepage    = "http://github.com/crafterm/comma"
-  s.summary     = %q{Ruby Comma Seperated Values generation library}
-  s.description = %q{Ruby Comma Seperated Values generation library}
+  s.summary     = %q{Ruby Comma Separated Values generation library}
+  s.description = %q{Ruby Comma Separated Values generation library}
 
   s.rubyforge_project = "comma"
 
